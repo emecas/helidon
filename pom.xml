@@ -169,6 +169,7 @@
         <module>jersey</module>
         <module>webclient</module>
         <module>integrations</module>
+        <module>dbclient</module>
     </modules>
 
     <build>
